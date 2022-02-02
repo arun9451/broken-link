@@ -1,0 +1,218 @@
+
+Total number of link in the page = 112
+http://app-stage.uolo.com/
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/personmaster/100/changepassword
+http://app-stage.uolo.com/logout
+http://app-stage.uolo.com/admin/smsbulk/helpdesk
+http://app-stage.uolo.com/admin/academicyear/
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/divisionmaster/
+http://app-stage.uolo.com/admin/divisionmaster/divisionvitals
+http://app-stage.uolo.com/admin/publishermaster
+http://app-stage.uolo.com/admin/notesgroup/show
+http://app-stage.uolo.com/admin/personmaster/index
+http://app-stage.uolo.com/admin/academicyear/
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/enquiry/generatelink
+http://app-stage.uolo.com/admin/enquiry/index
+http://app-stage.uolo.com/admin/enquiry/studentlist
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/attendance
+http://app-stage.uolo.com/admin/attendance/report
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/calendarevents/
+http://app-stage.uolo.com/admin/timetable/
+http://app-stage.uolo.com/admin/notesappv1/
+http://app-stage.uolo.com/admin/bulknotes/index
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/payments/ledger
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/attndsubscription/quartzsubscription
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/smsbulk/
+http://app-stage.uolo.com/admin/survey/
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/uololiteattendance/studentabsentreport
+http://app-stage.uolo.com/admin/uololiteattendance/teacherabsentreport
+http://app-stage.uolo.com/admin/uololiteattendance/classsummary_excel
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/attendancereport/memoattendance
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/routereport/notes_app_summary
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/mealmaster/meals_report
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/attendancereport/emp_attn_report
+http://app-stage.uolo.com/admin/attendancereport/
+http://app-stage.uolo.com/admin/attendance/report
+http://app-stage.uolo.com/admin/attendancereport/attnd_smsreport
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/smsbulk/report
+http://app-stage.uolo.com/admin/uololiteattendance/requested_reports
+http://app-stage.uolo.com/admin/voicecalls/
+http://app-stage.uolo.com/admin/assignments/show
+http://app-stage.uolo.com/admin/onlineclass/report
+http://app-stage.uolo.com/admin/activitydashboard
+http://app-stage.uolo.com/admin/activitydashboard/teacher-certificate
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/contentsharing/compose
+http://app-stage.uolo.com/admin/contentsharing/getReport
+http://app-stage.uolo.com/admin/contentsharing/uploadmultiimageindex
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/speak/
+http://app-stage.uolo.com/admin/speak/report/summary
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/communityweb/showunapproveddiscussion
+http://app-stage.uolo.com/admin/communityweb/showdiscussionaction
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/DA
+http://app-stage.uolo.com/admin/feestructure/
+http://app-stage.uolo.com/admin/feepayment/select-academic-year
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/D
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/R
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/DR
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/expenses/structure
+http://app-stage.uolo.com/admin/expenses/index
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/other-income/structure
+http://app-stage.uolo.com/admin/other-income/index
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/reportstructure/index
+http://app-stage.uolo.com/admin/reportcard/?for=1
+http://app-stage.uolo.com/admin/reportcard/?for=2
+http://app-stage.uolo.com/admin/reportcard/
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/collection/
+http://app-stage.uolo.com/admin/collection/report
+http://app-stage.uolo.com/admin/collection/save-bankdetails
+http://app-stage.uolo.com/admin/collection/paymentsummary
+http://app-stage.uolo.com/admin/assignments/list
+http://app-stage.uolo.com/admin/onlineclass
+http://app-stage.uolo.com/admin/notesappv1/#
+http://app-stage.uolo.com/admin/assessment
+http://app-stage.uolo.com/admin/assessment/0
+http://app-stage.uolo.com/admin/learningresource
+
+http://app-stage.uolo.com/admin/notesappv1/chatv1
+http://app-stage.uolo.com/admin/notesappv1/#home
+http://app-stage.uolo.com/admin/notesappv1/#profile
+http://app-stage.uolo.com/admin/notesappv1/#
+javascript:void(0);
+http://app-stage.uolo.com/admin/notesappv1/#
+null
+javascript:void(0)
+null
+null
+mailto:support@theuolo.com
+http://app-stage.uolo.com/admin/notesappv1/#
+null
+null
+Total Number of Active Links and Images 103
+http://app-stage.uolo.com/ OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/personmaster/100/changepassword OK 200
+http://app-stage.uolo.com/logout OK 200
+http://app-stage.uolo.com/admin/smsbulk/helpdesk OK 200
+http://app-stage.uolo.com/admin/academicyear/ OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/divisionmaster/ OK 200
+http://app-stage.uolo.com/admin/divisionmaster/divisionvitals OK 200
+http://app-stage.uolo.com/admin/publishermaster OK 200
+http://app-stage.uolo.com/admin/notesgroup/show OK 200
+http://app-stage.uolo.com/admin/personmaster/index OK 200
+http://app-stage.uolo.com/admin/academicyear/ OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/enquiry/generatelink OK 200
+http://app-stage.uolo.com/admin/enquiry/index OK 200
+http://app-stage.uolo.com/admin/enquiry/studentlist OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/attendance OK 200
+http://app-stage.uolo.com/admin/attendance/report OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/calendarevents/ OK 200
+http://app-stage.uolo.com/admin/timetable/ OK 200
+http://app-stage.uolo.com/admin/notesappv1/ OK 200
+http://app-stage.uolo.com/admin/bulknotes/index OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/payments/ledger OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/attndsubscription/quartzsubscription OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/smsbulk/ OK 200
+http://app-stage.uolo.com/admin/survey/ OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/uololiteattendance/studentabsentreport OK 200
+http://app-stage.uolo.com/admin/uololiteattendance/teacherabsentreport OK 200
+http://app-stage.uolo.com/admin/uololiteattendance/classsummary_excel OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/attendancereport/memoattendance OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/routereport/notes_app_summary OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/mealmaster/meals_report OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/attendancereport/emp_attn_report OK 200
+http://app-stage.uolo.com/admin/attendancereport/ OK 200
+http://app-stage.uolo.com/admin/attendance/report OK 200
+http://app-stage.uolo.com/admin/attendancereport/attnd_smsreport OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/smsbulk/report OK 200
+http://app-stage.uolo.com/admin/uololiteattendance/requested_reports OK 200
+http://app-stage.uolo.com/admin/voicecalls/ OK 200
+http://app-stage.uolo.com/admin/assignments/show OK 200
+http://app-stage.uolo.com/admin/onlineclass/report OK 200
+http://app-stage.uolo.com/admin/activitydashboard OK 200
+http://app-stage.uolo.com/admin/activitydashboard/teacher-certificate OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/contentsharing/compose OK 200
+http://app-stage.uolo.com/admin/contentsharing/getReport OK 200
+http://app-stage.uolo.com/admin/contentsharing/uploadmultiimageindex OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/speak/ OK 200
+http://app-stage.uolo.com/admin/speak/report/summary OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/communityweb/showunapproveddiscussion OK 200
+http://app-stage.uolo.com/admin/communityweb/showdiscussionaction OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/DA OK 200
+http://app-stage.uolo.com/admin/feestructure/ OK 200
+http://app-stage.uolo.com/admin/feepayment/select-academic-year OK 200
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/D OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/R OK 200
+http://app-stage.uolo.com/admin/feepayment/select-academic-year/DR OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/expenses/structure OK 200
+http://app-stage.uolo.com/admin/expenses/index OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/other-income/structure OK 200
+http://app-stage.uolo.com/admin/other-income/index OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/reportstructure/index OK 200
+http://app-stage.uolo.com/admin/reportcard/?for=1 OK 200
+http://app-stage.uolo.com/admin/reportcard/?for=2 OK 200
+http://app-stage.uolo.com/admin/reportcard/ OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/collection/ OK 200
+http://app-stage.uolo.com/admin/collection/report OK 200
+http://app-stage.uolo.com/admin/collection/save-bankdetails OK 200
+http://app-stage.uolo.com/admin/collection/paymentsummary OK 200
+http://app-stage.uolo.com/admin/assignments/list OK 200
+http://app-stage.uolo.com/admin/onlineclass OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/assessment OK 200
+http://app-stage.uolo.com/admin/assessment/0 OK 200
+http://app-stage.uolo.com/admin/learningresource OK 200
+http://app-stage.uolo.com/admin/notesappv1/chatv1 OK 200
+http://app-stage.uolo.com/admin/notesappv1/#home OK 200
+http://app-stage.uolo.com/admin/notesappv1/#profile OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
+http://app-stage.uolo.com/admin/notesappv1/# OK 200
